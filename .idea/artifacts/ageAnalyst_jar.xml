@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="ageAnalyst:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ageAnalyst_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ageAnalyst.jar">
+        <element id="module-output" name="ageAnalyst" />
+      </element>
+    </root>
+  </artifact>
+</component>
